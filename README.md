@@ -6,6 +6,7 @@ A short program that analyzes a piece of text
   - Occurence of a certain word    
  
 I created this program to practice list comprehension and for loops.    
+I also learned how to work with files in Python.    
 
 Language used: Python    
 
